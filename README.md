@@ -113,4 +113,3 @@ Through this project, I practiced:
 - Managing global themes in React
 - Combining MUI and Tailwind without conflicts
 - Structuring reusable components
-- Writing clean, reada
